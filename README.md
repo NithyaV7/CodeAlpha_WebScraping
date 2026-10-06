@@ -35,14 +35,4 @@ The final dataset contains **1,000 books**.
 - BeautifulSoup
 - Pandas
 
-## Project Structure
 
-```text
-CodeAlpha_WebScraping/
-│
-├── data/
-│   └── books.csv
-│
-├── scraper.py
-├── requirements.txt
-└── README.md
